@@ -1,0 +1,10 @@
+version: 1.0
+workflows:
+  - name: PRSmix
+    subclass: WDL
+    primaryDescriptorPath: PRSmix.wdl
+    testParameterFiles:
+      - PRSmix.json
+    authors:
+        - name: Buu Truong 
+          email: btruong@broadinstitute.org
