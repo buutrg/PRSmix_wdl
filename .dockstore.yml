@@ -1,8 +1,8 @@
 version: 1.1
 workflows:
-  - name: PRSmix
+  - name: 'PRSmix'
     subclass: WDL
-    primaryDescriptorPath: PRSmix.wdl
+    primaryDescriptorPath: /PRSmix.wdl
     testParameterFiles:
       - PRSmix.json
     authors:
