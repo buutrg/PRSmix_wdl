@@ -3,7 +3,7 @@ workflows:
   - name: 'PRSmix'
     subclass: WDL
     primaryDescriptorPath: /PRSmix.wdl
-    READMEPath: /README.md
+    readMePath: /README.md
     testParameterFiles:
       - /PRSmix.json
     authors:
