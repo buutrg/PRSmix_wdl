@@ -33,7 +33,7 @@ The pipeline contains 3 steps:
 
 # References
 
-Truong, B., Hull, L. E., Ruan, Y., Huang, Q. Q., Hornsby, W., Martin, H. C., van Heel, D. A., Wang, Y., Martin, A. R., Lee, H. and Natarajan, P. 2023. "Integrative Polygenic Risk Score Improves The Prediction Accuracy Of Complex Traits And Diseases". *doi:10.1101/2023.02.21.23286110*.
+Truong, B., Hull, L. E., Ruan, Y., Huang, Q. Q., Hornsby, W., Martin, H. C., van Heel, D. A., Wang, Y., Martin, A. R., Lee, H. and Natarajan, P. 2023. "Integrative Polygenic Risk Score Improves The Prediction Accuracy Of Complex Traits And Diseases". *doi.org/10.1016/j.xgen.2024.100523*.
 
 # Contact information
 This workspace is intended to be used for development of Consortium methods for PRSmix.
