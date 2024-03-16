@@ -4,9 +4,9 @@ workflows:
     subclass: WDL
     primaryDescriptorPath: /PRSmix.wdl
     readMePath: /README.md
-    doi: doi.org/10.1016/j.xgen.2024.100523
     testParameterFiles:
       - /PRSmix.json
     authors:
         - name: Buu Truong 
           email: btruong@broadinstitute.org
+          affiliation: Broad Institute of MIT and Harvard
